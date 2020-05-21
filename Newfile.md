@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My Favourite Book</title>
+</head>
+<body bgcolor="tan">
+  <h1 align="center">
+    <u> My favourite book</u>
+    <hr color/>
+    
+  </h1>
+  <p>
+    <!------Introduction--->
+    <div>
+      <em>My favourite book is <b><em>Harry Potter and the Philosopher's Stone</b></em>.Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a few enemies during his first year at the school, and with the help of his friends, Harry faces an attempted comeback by the dark wizard Lord Voldemort, who killed Harry's parents, but failed to kill Harry when he was just 15 months old.
+
+The book was first published in the United Kingdom on 26 June 1997 by Bloomsbury. It was published in the United States the following year by Scholastic Corporation under the title Harry Potter and the Sorcerer's Stone. It won most of the British book awards that were judged by children and other awards in the US. The book reached the top of the New York Times list of best-selling fiction in August 1999 and stayed near the top of that list for much of 1999 and 2000. It has been translated into at least 73 other languages, and has been made into a feature-length film of the same name, as have all six of its sequels.</em>
+    
+    
+    
+      </div>
+      <br>
+      <br>
+      <br>
+      <!----List of Books----------------------->
+  <div>
+  There are various books in the series of harry potter::
+  <ol>
+    <li>Harry Potter and the
+Philosopher's Stone</li>
+    <li>Harry Potter and the
+Chamber of Secrets
+</li>
+    <li>Harry Potter and the
+Prisoner of Azkaban
+</li>
+    <li>Harry Potter and the
+Goblet of Fire	
+</li>
+    <li>
+Harry Potter and the
+Order of the Phoenix</li>
+    <li>Harry Potter and the
+Half-Blood Prince</li>
+    <li>Harry Potter and the
+Deathly Hallows Part 1
+</li>
+    <li>Harry Potter and the
+Deathly Hallows Part 2</li>
+  </ol>
+  </div>
+  
+<br>
+  <br>
+  <br>
+  <!----Table------------------------------->
+  
+  <table align="center" bdcolor="blue" border="1">
+    <tr>
+      <th>Name of Book
+      </th>
+      <th>Year 
+      </th>
+      <th>
+        Author
+      </th>
+      <th>
+        Year of Film
+      </th>
+    </tr>
+    <tr>
+      <td>Harry Potter and the
+        Philosopher's Stone</td>
+      <td>1997</td>
+      <td>J.K. Rowling</td>
+      <td>2001</td>
+    </tr>
+    <tr>
+      <td>
+Harry Potter and the
+Chamber of Secrets
+</td>
+      <td>1998</td>
+      <td>J.K. Rowling</td>
+      <td>2002</td>
+    </tr>
+       <tr>
+      <td>
+Harry Potter and the
+Prisoner of Azkaban
+
+</td>
+      <td>1999</td>
+      <td>J.K. Rowling</td>
+      <td>2004</td>
+    </tr>
+         <tr>
+      <td>
+Harry Potter and the
+Goblet of Fire	
+
+</td>
+      <td>2000</td>
+      <td>J.K. Rowling</td>
+      <td>2005</td>
+    </tr>
+             <tr>
+      <td>
+Harry Potter and the
+Order of the Phoenix
+	
+
+</td>
+      <td>2003</td>
+      <td>J.K. Rowling</td>
+      <td>2007</td>
+    </tr>
+                   <tr>
+      <td>
+Harry Potter and the
+Half-Blood Prince
+	
+
+</td>
+      <td>2005</td>
+      <td>J.K. Rowling</td>
+      <td>2009</td>
+    </tr>
+                     <tr>
+      <td>
+
+	
+Harry Potter and the
+Deathly Hallows – Part 1
+</td>
+      <td>2007</td>
+      <td>J.K. Rowling</td>
+      <td>2010</td>
+    </tr>
+      
+                   <tr>
+      <td>
+
+	
+
+Harry Potter and the
+Deathly Hallows – Part 2
+</td>
+      <td>2007</td>
+      <td>J.K. Rowling</td>
+      <td>2011</td>
+    </tr>
+      
+        
+
+      
+  </table>
+    
+      
+      
+      
+      </p>
+  <!------------Another Section---------------------->
+  <p>
+    <br>
+    <br>
+    <br>
+    Below are the images and links<id="Emoji">&#x1F447<id="Emoji">&#x1F447<id="Emoji">&#x1F447 ::
+    <ol>
+     <li> <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)"> Harry Potter and the Philosopher's Stone </a>
+      </li>
+    
+    <ul>
+     
+      <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg" alt="img1"/>
+      </li>
+    </ul>
+    <br>
+    
+    
+       
+     <li> <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Chamber_of_Secrets_(film)">  Harry Potter and the Chamber of Secrets </a>
+      </li>
+    
+    <ul>
+     
+      <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg" alt="img2"/>
+      </li>
+    </ul>
+      <br>
+      
+      
+      <li> <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)" >Harry Potter and the Prisoner of Azkaban</a>
+    
+    <ul>
+     
+      <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Prisoner_of_azkaban_UK_poster.jpg/220px-Prisoner_of_azkaban_UK_poster.jpg" alt="img3"/>
+      </li>
+    </ul>
+      <br>
+      
+          <li> <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)" >Harry Potter and the Goblet of Fire</a>
+    
+    <ul>
+     
+      <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg/220px-Harry_Potter_and_the_Goblet_of_Fire_Poster.jpg" alt="img4"/>
+      </li>
+    </ul>
+      <br>
+            
+                  <li> <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix">Harry Potter and the Order of the Phoenix</a>
+    
+    <ul>
+     
+      <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg/220px-Harry_Potter_and_the_Order_of_the_Phoenix.jpg" alt="img5"/>
+      </li>
+    </ul>
+      <br>
+                           
+                  <li> <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince">Harry Potter and the Half-Blood Prince</a>
+    
+    <ul>
+     
+      <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Harry_Potter_and_the_Half-Blood_Prince_cover.png/220px-Harry_Potter_and_the_Half-Blood_Prince_cover.png" alt="img6"/>
+      </li>
+    </ul>
+      <br>
+      
+                    
+                                  <li> <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows">Harry Potter and the Deathly Hallows</a>
+    
+    <ul>
+     
+      <li><img src="https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg" alt="img7"/>
+      </li>
+    </ul>
+      <br>
+                                    
+                                                                   <li> <a href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child">Harry Potter and the Cursed Child</a>
+    
+    <ul>
+     
+      <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Cursed_Child_new_poster.jpg/220px-Cursed_Child_new_poster.jpg" alt="img8"/>
+      </li>
+    </ul>
+     
+      
+      
+      
+      
+      
+      
+      
+      
+    </ol>
+    
+    
+  </p>
+    <br>
+    <br>
+    
+    <h1 align="center"><b><u><i>Trailer</i></u></b></h1>
+    <hr color/>
+    
+    
+    
+    <!------Video---------------------------->
+    <br>
+    <br>
+    <br>
+  <iframe width="780" height="444" src="https://www.youtube.com/embed/VyHV0BRtdxo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="middle"></iframe>
+ 
+    
+ <br>
+ <br>
+ <br>
+    
+    <p>
+    <h1 align="center"><abbr title="Greetings From This Side">GTH</h1>
+    </p>
+    <p>
+      If you found this helpful please fill the following form::
+      <br>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeATfBiprpZvolSRBWaECcBwi8RMKH9l_kuV1lP0STPx1pVKw/viewform?embedded=true" width="640" height="947" frameborder="0" marginheight="0" marginwidth="0" >Loading…</iframe>
+    </p>
+
+</body>
+</html>
